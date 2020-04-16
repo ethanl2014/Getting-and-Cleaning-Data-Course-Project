@@ -1,0 +1,18 @@
+Files obtained from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Files used: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Input File Info:
+  activity_labels ~ titles for activities (see y below)
+  features ~ titles for measured values (see x below)
+  subject_test ~ ID # for subject test
+  X_test ~ numeric data for test values [mean, std dev. etc.]
+  y_test ~ ID # for activity test
+  subject_train ~ ID # for subject train
+  X_train ~ numeric data for train values [mean, std dev. etc.]
+  y_train ~ ID # for activity train
+Output File Info:
+  Take measured values for mean and std dev. of each test and train session
+  "Merge" all input files into cohesive table
+  Tidied data
+  Take mean of each measured group of measured means and std dev.
+  Output as "tidy_data.txt"
