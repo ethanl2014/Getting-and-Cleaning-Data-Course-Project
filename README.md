@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-Repository contains script "run_analysis.R" that takes data from accelerometers (see Code Book.md) and outputs summary file (tidy_data.txt)
+Repository contains script "run_analysis.R" that takes data from accelerometers (see Code Book) and outputs summary file (tidy_data.txt)
 
 Code Book is explanation file on input and output files
 
